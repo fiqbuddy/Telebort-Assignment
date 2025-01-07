@@ -36,3 +36,6 @@ This project uses the [Colormind API](http://colormind.io/api/) to generate harm
    - Color preview
    - Color name
    - Hex code
+  
+## Try It Now
+https://outfit.matchoutfit.workers.dev/
